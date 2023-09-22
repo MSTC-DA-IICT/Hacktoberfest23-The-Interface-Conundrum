@@ -9,6 +9,6 @@
 This is a Hactober fest 2023 repo for ui ux project problems based on real life.
 
 ### Connect with us
-Get in touch with us on [LinkedIn]([https://www.linkedin.com/company/microsoft-student-technical-club-da-iict/]) / [Instagram]([https://www.instagram.com/mstc_daiict/])
+Get in touch with us on [LinkedIn](https://www.linkedin.com/company/microsoft-student-technical-club-da-iict/) / [Instagram](https://www.instagram.com/mstc_daiict/)
 
 Write to us at microsoftclub@daiict.ac.in
