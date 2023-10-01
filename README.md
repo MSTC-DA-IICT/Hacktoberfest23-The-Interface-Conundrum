@@ -1,4 +1,4 @@
-# Hacktoberfest23-UI-UX
+# Hacktoberfest23-The Interface Conundrum
 <img src="https://res.cloudinary.com/dbvyvfe61/image/upload/v1619799241/Cicada%203301:%20Reinvented/MSTC_ffmo9v.png" width="10%">
 
 > This is a UI-UX Project for newcomers taking part in Hacktoberfest 2023. This repo is Maintained by MTSC. 
